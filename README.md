@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,119 +7,100 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
 	<title>Anusha's Portfolio</title>
-        <!-- Bootstrap Core CSS -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <!-- Custom CSS -->
-        <link href="css/styles.css" rel="stylesheet">
-        <link href="css/animate.css" rel="stylesheet">
-        <!-- Custom Fonts -->
-        <link href='http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet'>
-        <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-        <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
-        </head>
+
 
         <body>
-	    <!--Header(start)-->
-	    <table id="header" border="0" width="100%"
-		         cellpadding="0" cellspacing="0" bgcolor="#4CAF50">
-		         <tr>
-			          <td>
-				         <table border="0" cellpadding="15"
-					       cellspacing="0" width="90%" align="center">
-					       <tr>
-					           <td>
+	   <!--Header(start)-->
+	   <table id="header" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="#4CAF50">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td>
 							 
 
-						   </td>
+						</td>
 
-						   <td>
+						<td>
 							<font face="Comic sans MS" size="6">
-								<b>Anusha's Portfolio</b>
+								<b>Anusha'ss Portfolio</b>
 							</font>
-						   </td>
+						</td>
 
-						   <td width="15%">
+						<td width="15%">
 							 
-						   </td>
+						</td>
 
-						   <td>
+						<td>
 							<a href="#home" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
 									Home
 								</font>
 							</a>
-						    </td>
+						</td>
 
-						    <td>
-							  |
-						    </td>
+						<td>
+							|
+						</td>
 
-						    <td>
+						<td>
 							<a href="#about" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
 									About
-							</font>
+								</font>
 							</a>
-						     </td>
+						</td>
 
-						     <td>
-							    |
-						     </td>
-                                 
-						     <td>
+						<td>
+							|
+						</td>
+
+						<td>
 							<a href="#projects" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
 									Projects
 								</font>
 							</a>
-						     </td>
+						</td>
 
-						     <td>
-							  |
-						     </td>
+						<td>
+							|
+						</td>
 
-						     <td>
+						<td>
 							<a href="#publications" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
 									Publications
 								</font>
 							</a>
-						     </td>
+						</td>
 
-						     <td>
-							  |
-						     </td> 
+						<td>
+							|
+						</td>
                                                 
-                                                     <td>
+                                                <td>
 							<a href="#Internships" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
 									Internships
 								</font>
 							</a>
-						     </td>
+						</td>
 
-						     <td>
-							   |
-						     </td>
+						<td>
+							|
+						</td>
                                                 
                                                 
 
 						
-					         </tr>
-				      </table>
-			     </td>
-		          </tr>
+					</tr>
+				</table>
+			</td>
+		</tr>
 	</table>
 	<!--Header(end)-->
 
@@ -558,24 +540,6 @@ interest.
 		</tr>
 	</table>
 	<!--Footer2(end)-->
-
-
-
-
-        <!-- jQuery -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-
-        <!-- Bootstrap Core JavaScript -->
-        <script src="js/bootstrap.min.js"></script>
-
-        <!-- Plugin JavaScript -->
-        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-        <script src="js/cbpAnimatedHeader.js"></script>
-        <script src="js/waypoints.min.js"></script>
-
-       <!-- Custom Theme JavaScript -->
-       <script src="js/script.js"></script>
-
 
 </body>
 
