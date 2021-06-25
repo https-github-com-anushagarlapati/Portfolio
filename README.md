@@ -6,6 +6,7 @@
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
 	<title>Anusha's Portfolio</title>
+	
 
 
         <body>
@@ -154,7 +155,7 @@
 					<tr>
 						<td width="10%">
                                                 
-							<img src="PIC.jpeg" width="260" height="230">
+							<img src="PIC.jpeg" width="260" height="200">
 						</td>
 
 						<td width="40%">
