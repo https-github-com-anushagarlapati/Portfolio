@@ -5,13 +5,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
-	<title>Anusha's Portfolio</title>
-	
+	<title>HTML Project</title>
+</head>
 
-
-        <body>
-	   <!--Header(start)-->
-	   <table id="header" border="0" width="100%"
+<body>
+	<!--Header(start)-->
+	<table id="header" border="0" width="100%"
 		cellpadding="0" cellspacing="0" bgcolor="#4CAF50">
 		<tr>
 			<td>
@@ -25,7 +24,7 @@
 
 						<td>
 							<font face="Comic sans MS" size="6">
-								<b>Anusha's Portfolio</b>
+								<b>GeeksForGeeks</b>
 							</font>
 						</td>
 
@@ -70,9 +69,9 @@
 						</td>
 
 						<td>
-							<a href="#publications" style="text-decoration:none">
+							<a href="#achievements" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
-									Publications
+									Achievements
 								</font>
 							</a>
 						</td>
@@ -80,22 +79,14 @@
 						<td>
 							|
 						</td>
-                                                
-                                                <td>
-							<a href="#Internships" style="text-decoration:none">
+
+						<td>
+							<a href="#contact" style="text-decoration:none">
 								<font face="Verdana" size="5" color=black>
-									Internships
+									Contact
 								</font>
 							</a>
 						</td>
-
-						<td>
-							|
-						</td>
-                                                
-                                                
-
-						
 					</tr>
 				</table>
 			</td>
@@ -115,7 +106,7 @@
 							<h3>
 								<font face="Times New Roman"
 									size="6" color="#ffffff">
-									Hi, I am Anusha Garlapati!
+									Hi Geeks!
 								</font>
 							</h3>
 
@@ -142,9 +133,9 @@
 				<table border="0" cellpadding="15"
 					cellspacing="0" width="80%" align="center">
 					<tr>
-						<td height="160" align="center"
+						<td height="180" align="center"
 							valign="middle" colspan="2">
-							<font face="Verdana" size="6"
+							<font face="Verdana" size="7"
 								color="#4CAF50">
 								About Me
 							</font>
@@ -153,29 +144,47 @@
 					</tr>
 
 					<tr>
-						<td width="10%">
-                                                
-							<img src="PIC.jpeg" width="260" height="200">
+						<td width="40%">
+							<img src="img.png">
 						</td>
 
-						<td width="40%">
+						<td width="60%">
 							<font face="Verdana" size="4"
 								color="white">
-								An enthusiastic person, fascinated in Machine learning and Data Science, flexible in trying diverse things, and
-also capable of working independently. I always keen to upskill myself by learning new skills that capture my
-interest.
+								Thanks for your interest, here
+								is a quick story of me and this
+								website.
 								<hr color="black">
-								I do my work mainly in Python. Machine learning and Data science are my stronger section. Besides these I know Deep Learning, NLP and Computer vision as well.
+								Sandeep Jain An IIT Roorkee alumnus
+								and founder of GeeksforGeeks. He
+								loves to solve programming problems
+								in most efficient ways. Apart from
+								GeeksforGeeks, he has worked with
+								DE Shaw and Co. as a software
+								developer and JIIT Noida as an
+								assistant professor.
 								<hr color="black">
 
-								
+								I do my work mainly in C-Language,
+								C++ and JAVA. C++ and Data Structure
+								& Algorithm are my stronger section.
+								Besides these I know Web Development,
+								LINUX and database as well.
+								<hr color="black">
 
-								
+								This website is basically one of my
+								Web Development project which is
+								built using HTML only.
+								Here one can also find ideas for
+								projects in different languages.
 
-								
-								
-								
-								
+								Thanks again for reading this,
+								because of people like you, it
+								exists and prospers!
+								<hr color="black">
+								Cheers,
+								<br>
+								<b>GeeksForGeeks.</b>
 							</font>
 						</td>
 					</tr>
@@ -213,52 +222,115 @@ interest.
 								size="5" color="black">
 								<ul>
 									<li>
-										Predicting Employees under Stress for Pre-emptive Remediation using Machine learning Algorithm
+										BMI Calculator
 										<a href="#" style="text-decoration:none">
-											 
+											 ➲
 										</a>
 									</li>
 
 									<li>
 										<hr color="#c2c0c3">
-										Stock Price Prediction Using Facebook Prophet and Arima Models
+										Calulator
 										<a href="#" style="text-decoration:none"
 											color="#c2c0c3">
-											 
+											 ➲
 										</a>
 									</li>
 
 									<li>
 										<hr color="#c2c0c3">
-										Price Listing Predictions and Forthcoming Analysis of Airbnb
+										Calendar
 										<a href="#" style="text-decoration:none">
-											 
+											 ➲
 										</a>
 									</li>
 
 									<li>
 										<hr color="#c2c0c3">
-										Automated Essay scoring
+										ChatBot
 										<a href="#" style="text-decoration:none">
-											 
+											 ➲
 										</a>
 									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Contact Saver
+										<a href="#" style="text-decoration:none">
+											 ➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Daily Quiz
+										<a href="#" style="text-decoration:none">
+											 ➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Emplyoyee Record System
+										<a href="#" style="text-decoration:none">
+											 ➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Guess the Number-Game
+										<a href="#" style="text-decoration:none">
+											 ➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Random Password Generator
+										<a href="#" style="text-decoration:none">
+											➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Stone Paper Scissor
+										<a href="#" style="text-decoration:none">
+											➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Tic Tac Toe
+										<a href="#" style="text-decoration:none">
+											➲
+										</a>
+									</li>
 
-									
+									<li>
+										<hr color="#c2c0c3">
+										Tic Tac Toe(GUI)
+										<a href="#" style="text-decoration:none">
+											➲
+										</a>
+									</li>
+
+									<li>
+										<hr color="#c2c0c3">
+										ToDo App
+										<a href="#" style="text-decoration:none">
+											➲ </a>
+									</li>
+
+									<li>
+										<hr color="#c2c0c3">
+										Travel Management System
+										<a href="#" style=
+											"text-decoration:none"> ➲
+										</a>
+									</li>
 								</ul>
 								<hr color="#c2c0c3">
 								<hr color="#c2c0c3">
@@ -268,7 +340,7 @@ interest.
 						</td>
 
 						<td width="45%">
-							<img src="img.jpeg" alt="Project" width="65%">
+							<img src="img.png" alt="Project" width="75%">
 						</td>
 					</tr>
 				</table>
@@ -276,9 +348,9 @@ interest.
 		</tr>
 	</table>
 	<!--Projects(end)-->
-  
-        <!--Publications(start)-->
-	<table id="publications" border="0" width="100%"
+
+	<!--Achievement(start)-->
+	<table id="achievements" border="0" width="100%"
 		cellpadding="0" cellspacing="0" bgcolor="black">
 		<tr>
 			<td>
@@ -287,7 +359,7 @@ interest.
 					<tr>
 						<td height="180" align="center" valign="middle">
 							<font face="Verdana" size="7" color="#4CAF50">
-								Publications
+								Achievements
 								<hr color="#4CAF50" width="100">
 							</font>
 						</td>
@@ -298,54 +370,56 @@ interest.
 							<font face="Verdana" size="4" color="white">
 								<ul>
 									<li>
-										<b>Predicting Employees under Stress for Pre-emptive Remediation using Machine learning Algorithm</b>
+										<b>Intern at GeeksforGeeks.</b>
 										<ul>
 											<li>
-												November,2020
- 
+												December,2020 - Present.
 											</li>
 											<li>
-											     5th IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology
-(RTEICT 2020) (Nov-2020)
-
+												Write technical articles
+												on programming related topics.
 											</li>
 										</ul>
 									</li>
 
-									
+									<li>
+										<hr color="black">
+										<hr color="black">
+										<hr color="black">
+										<b>Microsoft Learn Student Ambassador.</b>
+										<ul>
+											<li>
+												August,2020 - Present.
+											</li>
+											<li>
+												Conducted events and workshops on
+												different technologies.
+											</li>
+										</ul>
+									</li>
 
 									<li>
-										
-										<b>Stock Price Prediction Using Facebook Prophet and Arima Models.</b>
+										<hr color="black">
+										<hr color="black">
+										<hr color="black">
+										<b>Mentored HackTX.</b>
 										<ul>
 											<li>
-												April,2021.
+												October,2020.
 											</li>
 											<li>
-										           6th IEEE International Conference for Convergence in Technology (I2CT 2021) (Apr 2021).
+												Selected from Microsoft as Student
+												ambassador where I mentored students
+												in their projects.
 											</li>
-											
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
 										</ul>
-                                                                        </li>
-									
-                                                                        <li>
-										<b>Price Listing Predictions and Forthcoming Analysis of Airbnb</b>
-										<ul>
-											<li>
-												July,2021
- 
-											</li>
-											<li>
-											     12th INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES
-(ICCCNT) 
+									</li>
 
-											</li>
-										</ul>
-									</li>    
-
-
-
-                                                                                                                                   
 								</ul>
 
 							</font>
@@ -355,10 +429,11 @@ interest.
 			</td>
 		</tr>
 	</table>
-	<!--Publications(end)-->
+	<!--Achievement(end)-->
 
-	<!--Internships(start)-->
-	<table id="Internships" border="0" width="100%"
+
+	<!--Contact(start)-->
+	<table id="contact" border="0" width="100%"
 		cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
 		<tr>
 			<td>
@@ -369,80 +444,105 @@ interest.
 							valign="middle" colspan="2">
 							<font face="Verdana" size="7"
 								color="black">
-								Internships
+								Contact
 							</font>
 							<hr color="black" width="90">
 						</td>
 					</tr>
 
 					<tr>
-						<td height="10">
-							<font face="Times New Roman"
-								size="5" color="black">
-								<ul>
-									<li>
-										<b>Datalogy.</b>
-										<a href="#" style="text-decoration:none">
-											 
-										</a>
-                                                                                <ul>
-                                                                                     <li>
-                                                                                            Aug-Oct,2020.
-                                                                                     </li>
-                                                                                     <li>
-                                                                                          Intermed at Datalogy and completed training and projects along with management on Data science.
-                                                                                     </li>
-                                                                                </ul>
-                                                                                         
-									</li>
-
-									<li>
-										<b>Architectica Startup Solutions.</b>
-										<a href="#" style="text-decoration:none">
-											 
-										</a>
-                                                                                <ul>
-                                                                                     <li>
-                                                                                            May,2020.
-                                                                                     </li>
-                                                                                     <li>
-                                                                                          Intermed at Architectica Startup Solutions on Machine learning and complete project.
-                                                                                     </li>
-                                                                                </ul>
-                                                                                         
-									</li>
-
-									
-
-									
-
-									
-
-									
-
-							
-
-									
-								</ul>
-								<hr color="#c2c0c3">
-								<hr color="#c2c0c3">
-								<hr color="#c2c0c3">
-								<hr color="#c2c0c3">
-							</font>
+						<td align="center" valign="top">
+							<table border="0" width="50%" cellpadding="15"
+								cellspacing="0" align="center" bgcolor="black">
+								<tr>
+									<td width="30%">
+										<hr color="black">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											Name
+										</font>
+									</td>
+									<td width="70%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											<input type="text" size="40">
+										</font>
+									</td>
+								</tr>
+								<tr>
+									<td width="30%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											Email
+										</font>
+									</td>
+									<td width="70%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											<input type="email" size="40">
+										</font>
+									</td>
+								</tr>
+								<tr>
+									<td width="30%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											Number
+										</font>
+									</td>
+									<td width="70%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											<input type="number" size="12">
+										</font>
+									</td>
+								</tr>
+								<tr>
+									<td width="30%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											Message
+										</font>
+									</td>
+									<td width="70%">
+										<font face="Verdana" size="4"
+											color="#ffffff">
+											<textarea rows="5"
+												cols="37">
+											</textarea>
+										</font>
+									</td>
+								</tr>
+								<tr>
+									<td width="30%">
+										 
+									</td>
+									<td width="70%">
+										<button type="Submit">
+											<font face="Verdana"
+												size="4" color="black">
+												<b>Submit</b>
+											</font>
+										</button>
+										<hr color="black">
+										<hr color="black">
+									</td>
+								</tr>
+							</table>
 						</td>
 
-						<td width="45%">
-							
+					</tr>
+					<tr>
+						<td colspan="2">
+							 
+							 
 						</td>
 					</tr>
 				</table>
 			</td>
 		</tr>
 	</table>
-	<!--Internships(end)-->
-  
-
-	
+	<!--Contact(end)-->
 
 
 	<!--Footer1(start)-->
@@ -453,9 +553,9 @@ interest.
 				<table border="0" cellpadding="15"
 					cellspacing="0" width="90%" align="center">
 					<tr>
-						<td width="14%" valign="top">
+						<td width="13%" valign="top">
 							<b>LinkedIn</b>
-							<a href="https://linkedin.com/in/anusha-garlapati" style="text-decoration:none">
+							<a href="#" style="text-decoration:none">
 								➲
 							</a>
 						</td>
@@ -464,9 +564,9 @@ interest.
 							|
 						</td>
 
-						<td width="14%" valign="top">
+						<td width="13%" valign="top">
 							<b>GitHub</b>
-							<a href="https://github.com/https-github-com-anushagarlapati" style="text-decoration:none">
+							<a href="#" style="text-decoration:none">
 								➲
 							</a>
 						</td>
@@ -475,32 +575,67 @@ interest.
 							|
 						</td>
 
-					
-
-	
-
-						
-
-						<td width="14%" valign="top">
-							<b>Email</b>
-							<a href="https://anushagarlapati45@gmail.com" style="text-decoration:none">
+						<td width="13%" valign="top">
+							<b>HackerRank</b>
+							<a href="#" style="text-decoration:none">
 								➲
 							</a>
 						</td>
 
 						<td>
-							
+							|
 						</td>
-                                            
 
-                                               
-                                            
+						<td width="13%" valign="top">
+							<b>GeeksforGeeks</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
 
+						<td>
+							|
+						</td>
 
+						<td width="13%" valign="top">
+							<b>Twitter</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
 
-                                                
+						<td>
+							|
+						</td>
 
-						
+						<td width="13%" valign="top">
+							<b>Instagram</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>Email</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>Website</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
 					</tr>
 				</table>
 			</td>
@@ -520,7 +655,8 @@ interest.
 						<td width="80%" valign="top">
 							<font face="Verdana"
 								color="#4CAF50" size="5">
-								
+								©Copyright 2050 by nobody.
+								All rights reserved.
 							</font>
 						</td>
 
@@ -528,7 +664,7 @@ interest.
 							<font face="arial" color="black" size="5">
 								<a href="#header" style="text-decoration:none">
 									<font face="Verdana" color="#4CAF50" size="6">
-										<b></b>
+										<b>TOP</b>
 									</font>
 								</a>
 							</font>
