@@ -7,11 +7,11 @@
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
 	<title>Anusha's Portfolio</title>
-</head>
 
-<body>
-	<!--Header(start)-->
-	<table id="header" border="0" width="100%"
+
+        <body>
+	   <!--Header(start)-->
+	   <table id="header" border="0" width="100%"
 		cellpadding="0" cellspacing="0" bgcolor="#4CAF50">
 		<tr>
 			<td>
@@ -153,9 +153,9 @@
 					</tr>
 
 					<tr>
-						<td width="30%">
-							
-							<img src="PIC.jpeg" alt="Project" width="65%">
+						<td width="10%">
+                                                
+							<img src="PIC.jpeg" width="260" height="260">
 						</td>
 
 						<td width="40%">
