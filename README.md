@@ -154,7 +154,7 @@
 
 					<tr>
 						<td width="30%">
-							<img src="samplee.png">
+							<img src="PIC.jpeg">
 						</td>
 
 						<td width="40%">
